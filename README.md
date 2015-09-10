@@ -5,3 +5,5 @@
 1. Personモデルをスキャフォルドで作成する
 
 1. Addressモデルを作成する
+
+1. PersonとAddressの関連を定義してPersonから複数のAddressを登録できるようにする
